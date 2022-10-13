@@ -10,5 +10,5 @@
 7. project_7_ABtest. Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста (Python, Pandas, Matplotlib, SciPy, A/B-тестирование, проверка статистических гипотез).
 8. project_8_ABtest_application. Анализ пользовательского поведения в мобильном приложении (A/B-тестирование, Python, Pandas, Matplotlib, Seaborn, событийная аналитика, продуктовые метрики, Plotly, проверка статистических гипотез).
 9. project_10_ML. Прогнозирование вероятности оттока пользователей для фитнес-центров (Python, Pandas, Scikit-learn, Matplotlib, Seaborn, машинное обучение).
-10. project_11_monetization.ipynb. Игры - формирование модели монетизации (Python, Pandas, Seaborn, Pyplot, Scipy, NumPy)
-11. 
+10. project_11_monetization.ipynb. Игры - формирование модели монетизации (Python, Pandas, Seaborn, Pyplot, Scipy, NumPy).
+11. prject_12_final_ABtest. Анализ пользовательского поведения клиентов крупного интернет-магазина (Python, Pandas, Pyplot, NumPy, Plotly, Math, SciPy).
